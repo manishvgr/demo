@@ -10,9 +10,9 @@ namespace git_demo
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Enter the a");
-            //int a=int.Parse(Console.ReadLine());
-            Console.WriteLine(addingtwonumnbers(4,8));
+           
+           Console.WriteLine(addingtwonumnbers(4,8));
+            Console.WriteLine(dividetwonumnbers(10,2));
         }
 
     
@@ -25,6 +25,13 @@ namespace git_demo
         }
     #endregion
     #region divide the two numbers 
+        public static int dividetwonumnbers(int a, int b)
+        {
+            int c = 0;
+            c = a / b;
+            return c;
+        }
+
     #endregion
 }
 }
