@@ -1,0 +1,6 @@
+C:\Users\mindu\Desktop\demo_git\sample\git_demo\git_demo\bin\Debug\git_demo.exe.config
+C:\Users\mindu\Desktop\demo_git\sample\git_demo\git_demo\bin\Debug\git_demo.exe
+C:\Users\mindu\Desktop\demo_git\sample\git_demo\git_demo\bin\Debug\git_demo.pdb
+C:\Users\mindu\Desktop\demo_git\sample\git_demo\git_demo\obj\Debug\git_demo.csprojResolveAssemblyReference.cache
+C:\Users\mindu\Desktop\demo_git\sample\git_demo\git_demo\obj\Debug\git_demo.exe
+C:\Users\mindu\Desktop\demo_git\sample\git_demo\git_demo\obj\Debug\git_demo.pdb
